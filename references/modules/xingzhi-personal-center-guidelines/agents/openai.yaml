@@ -1,0 +1,4 @@
+interface:
+  display_name: "行知个人中心规范"
+  short_description: "创建、优化和审核行知个人中心、消息通知与联系人管理页面"
+  default_prompt: "Use $xingzhi-personal-center-guidelines to create or review a XingZhi personal-center screen."

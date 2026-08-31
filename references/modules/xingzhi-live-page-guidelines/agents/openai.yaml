@@ -1,0 +1,4 @@
+interface:
+  display_name: "行知直播落地页规范"
+  short_description: "创建、优化和审核行知直播、云路演、预约及回放落地页面"
+  default_prompt: "使用 $xingzhi-live-page-guidelines 按行知规范创建或审核直播落地页。"

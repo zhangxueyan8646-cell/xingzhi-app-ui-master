@@ -1,0 +1,4 @@
+interface:
+  display_name: "行知研究服务规范"
+  short_description: "创建、优化和审核行知研究服务、个股详情与月度金股页面"
+  default_prompt: "使用 $xingzhi-research-service-guidelines 按行知规范创建或审核研究服务页面。"

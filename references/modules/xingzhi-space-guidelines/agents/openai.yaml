@@ -1,0 +1,4 @@
+interface:
+  display_name: "行知空间规范"
+  short_description: "创建、优化和审核行知空间首页、活动列表及活动详情页面"
+  default_prompt: "使用 $xingzhi-space-guidelines 按行知规范创建或审核行知空间相关页面。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "行知FICC固收规范"
+  short_description: "创建、优化和审核行知FICC固收交易、账户、划转与出金页面"
+  default_prompt: "使用 $xingzhi-ficc-fixed-income-guidelines 按行知规范创建或审核 FICC 固收页面。"

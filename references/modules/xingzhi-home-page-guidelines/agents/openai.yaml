@@ -1,0 +1,4 @@
+interface:
+  display_name: "行知首页规范"
+  short_description: "创建、优化和审核行知首页、热点模块与首页信息流页面"
+  default_prompt: "Use $xingzhi-home-page-guidelines to create or review a XingZhi home screen."

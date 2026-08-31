@@ -1,0 +1,4 @@
+interface:
+  display_name: "行知产业链规范"
+  short_description: "创建、优化和审核行知产业链图谱、主题与公司详情页面"
+  default_prompt: "使用 $xingzhi-industry-chain-guidelines 按行知规范创建或审核产业链页面。"

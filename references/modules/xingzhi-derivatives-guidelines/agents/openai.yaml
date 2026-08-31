@@ -1,0 +1,4 @@
+interface:
+  display_name: "行知金创/衍生品规范"
+  short_description: "创建、优化和审核行知金创、衍生品交易、自选与融券申请页面"
+  default_prompt: "使用 $xingzhi-derivatives-guidelines 按行知规范创建或审核金创与衍生品业务页面。"

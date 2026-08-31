@@ -1,0 +1,4 @@
+interface:
+  display_name: "行知落地页规范"
+  short_description: "创建、优化和审核行知活动报名、签署、CRM 及转化流程"
+  default_prompt: "Use $xingzhi-landing-page-guidelines to create or review a XingZhi activity landing page."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "行知投资理财规范"
+  short_description: "创建、优化和审核行知投资理财、私募创造营及管理人交流页面"
+  default_prompt: "使用 $xingzhi-investment-wealth-guidelines 按行知规范创建或审核投资理财页面。"

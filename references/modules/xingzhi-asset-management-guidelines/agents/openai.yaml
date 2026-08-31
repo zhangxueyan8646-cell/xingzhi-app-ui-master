@@ -1,0 +1,4 @@
+interface:
+  display_name: "行知资管业务规范"
+  short_description: "创建、优化和审核行知资管业务首页、产品列表、详情及权限流程页面"
+  default_prompt: "使用 $xingzhi-asset-management-guidelines 按行知规范创建或审核资管业务相关页面。"

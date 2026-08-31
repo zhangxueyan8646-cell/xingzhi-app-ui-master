@@ -1,0 +1,4 @@
+interface:
+  display_name: "行知登录认证规范"
+  short_description: "创建、优化和审核行知内容落地页的登录、验证码与访问认证流程"
+  default_prompt: "使用 $xingzhi-login-authentication-guidelines 按行知规范创建或审核内容落地页的登录认证流程。"

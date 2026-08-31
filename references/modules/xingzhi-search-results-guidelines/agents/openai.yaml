@@ -1,0 +1,4 @@
+interface:
+  display_name: "行知搜索落地页规范"
+  short_description: "创建、优化和审核行知综合搜索、主题、公司及内容结果页面"
+  default_prompt: "使用 $xingzhi-search-results-guidelines 按行知规范创建或审核搜索结果落地页。"

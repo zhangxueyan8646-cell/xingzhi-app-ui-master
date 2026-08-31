@@ -1,0 +1,4 @@
+interface:
+  display_name: "行知期货专区规范"
+  short_description: "创建、优化和审核行知期货专区、期货研报及数据库页面"
+  default_prompt: "使用 $xingzhi-futures-zone-guidelines 按行知规范创建或审核期货专区相关页面。"

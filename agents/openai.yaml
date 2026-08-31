@@ -1,0 +1,7 @@
+interface:
+  display_name: "行知app UI总控skill"
+  short_description: "一次调用，自动选择正确的行知业务、组件、页面与交互规范"
+  brand_color: "#00D2F0"
+  default_prompt: "Use $xingzhi-app-ui-master to read this PRD, select the correct XingZhi rules, and create the required UI pages."
+policy:
+  allow_implicit_invocation: true

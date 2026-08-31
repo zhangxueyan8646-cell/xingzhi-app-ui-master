@@ -1,0 +1,4 @@
+interface:
+  display_name: "行知超级ETF月报规范"
+  short_description: "创建、优化和审核行知超级ETF月报、资金洞察与主题榜单页面"
+  default_prompt: "使用 $xingzhi-super-etf-monthly-guidelines 按行知规范创建或审核超级ETF月报页面。"

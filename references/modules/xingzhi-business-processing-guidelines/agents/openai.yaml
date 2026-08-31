@@ -1,0 +1,4 @@
+interface:
+  display_name: "行知业务办理规范"
+  short_description: "创建、优化和审核行知业务申请、材料上传、身份核实及协议签署流程"
+  default_prompt: "使用 $xingzhi-business-processing-guidelines 按行知规范创建或审核业务办理流程。"

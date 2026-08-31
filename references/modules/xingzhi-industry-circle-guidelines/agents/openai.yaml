@@ -1,0 +1,4 @@
+interface:
+  display_name: "行知产业圈规范"
+  short_description: "创建、优化和审核行知产业圈、企业动态及关联企业页面"
+  default_prompt: "Use $xingzhi-industry-circle-guidelines to create or review a XingZhi industry-circle screen."

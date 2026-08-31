@@ -1,0 +1,4 @@
+interface:
+  display_name: "行知投行港股规范"
+  short_description: "创建、优化和审核行知港股IPO簿记、认购分析及配售明细页面"
+  default_prompt: "使用 $xingzhi-investment-bank-hk-guidelines 按行知规范创建或审核投行港股页面。"

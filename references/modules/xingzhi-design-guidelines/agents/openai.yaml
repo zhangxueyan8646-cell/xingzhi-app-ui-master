@@ -1,0 +1,4 @@
+interface:
+  display_name: "行知规范skill"
+  short_description: "应用行知 App 的颜色、字体、间距、引导与组件设计规范"
+  default_prompt: "使用 $xingzhi-design-guidelines 按行知 App 规范设计或检查当前界面。"

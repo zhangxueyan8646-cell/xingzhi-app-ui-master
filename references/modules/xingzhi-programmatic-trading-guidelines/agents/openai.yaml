@@ -1,0 +1,4 @@
+interface:
+  display_name: "行知程序化交易规范"
+  short_description: "创建、优化和审核行知程序化交易、QTM协议签署及电子签署记录页面"
+  default_prompt: "使用 $xingzhi-programmatic-trading-guidelines 按行知规范创建或审核程序化交易协议签署页面。"
